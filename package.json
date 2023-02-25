@@ -1,0 +1,20 @@
+{
+  "name": "@lazy/create-react-app",
+  "version": "0.0.1",
+  "packageManager": "yarn@3.3.1",
+  "keywords": [
+    "react",
+    "boilerplate",
+    "typescript",
+    "starter"
+  ],
+  "bin": "./bin/index.js",
+  "author": "lazy <nocaplazy.dev@gmail.com> (https://github.com/lazy2005)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nocaplazy/react-ts-boilerplate"
+  },
+  "scripts": {
+    "@lazy/create-react-app": "./index.js"
+  }
+}
