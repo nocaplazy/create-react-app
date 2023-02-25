@@ -1,7 +1,7 @@
 {
-  "name": "@lazy/create-react-app",
+  "name": "@lazy05/create-react-app",
   "version": "0.0.1",
-  "packageManager": "yarn@3.3.1",
+  "packageManager": "yarn@3.4.1",
   "keywords": [
     "react",
     "boilerplate",
@@ -15,6 +15,6 @@
     "url": "https://github.com/nocaplazy/react-ts-boilerplate"
   },
   "scripts": {
-    "@lazy/create-react-app": "./index.js"
+    "@lazy/create-react-app": "node ./index.js"
   }
 }

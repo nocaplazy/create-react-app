@@ -43,7 +43,7 @@ async function main() {
     }
 
     console.log("Installing dependencies...");
-    execSync("npm install");
+    execSync("yarn");
 
     console.log("Removing useless files");
     execSync("npx rimraf ./.git");
