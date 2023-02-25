@@ -1,11 +1,11 @@
-# @lazy/create-react-app
+# @lazy05/create-react-app
 
 ```shell
-yarn dlx @lazy/create-react-app my-app
+yarn dlx @lazy05/create-react-app my-app
 ```
 
 or
 
 ```shell
-npx @lazy/create-react-app my-app
+npx @lazy05/create-react-app my-app
 ```
