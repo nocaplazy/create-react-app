@@ -42,9 +42,6 @@ async function main() {
       process.chdir(projectPath);
     }
 
-    console.log("Installing dependencies...");
-    execSync("yarn");
-
     console.log("Removing useless files");
     execSync("npx rimraf ./.git");
 
